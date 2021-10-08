@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ShriDattaMadhira,
+- I’m interested in Data science, Cloud Computing, and AI.
+- I’m currently learning data mining, design patterns in programming, Python Flask, and AWS.
+- How to reach me - madhira.s@northeastern.edu
