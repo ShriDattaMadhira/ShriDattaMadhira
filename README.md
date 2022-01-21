@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ShriDattaMadhira,
 - I’m interested in Software Development, Data science, Cloud Computing, and AI.
-- I’m currently learning data mining, design patterns in programming, Python Flask, and AWS.
+- I just started as a Computational Biologist at Vor Biopharma. I will be working on optimizing data pipelines, optimizing databases (which includes migrating to a faster DB design), building a web application for visualizing DNA and RNA data.
+- 
 - How to reach me - madhira.s@northeastern.edu
