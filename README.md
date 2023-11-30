@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @ShriDattaMadhira,
-- 
-- Recent Masters in Computer Science graduate from Northeastern University, Boston.
-- 
-- I’m interested in Software Development & testing, Data science, Cloud Computing, and AI/ML.
-- 
-- Recent Experience: Computational Biologist co-op at Vor Biopharma. 
-    -  I worked on optimizing data pipelines, optimizing databases (which includes migrating to a faster DB design), building a        web application for visualizing DNA and RNA data.
--
-- How to reach me - madhira.s@northeastern.edu | sridattamadhira1919@gmail.com
+
